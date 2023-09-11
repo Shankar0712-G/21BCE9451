@@ -16,8 +16,7 @@
                 <th>Task Number</th>
                 <th>Link</th>
             </tr>
-            
-            <tr>
+             <tr>
                 <td>Task1</td>
                 <td><a href="https://shankar0712-g.github.io/21BCE9451/task1.html">Link1</a></td>
             </tr>
